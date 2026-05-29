@@ -9,7 +9,7 @@ https://data.nlr.gov/submissions/305
 
 The project uses `combined_wind_experiments.csv`, a public combined dataset from simulated wind experiments.
 
-## Skills demonstrated
+## Requirements
 
 - Python
 - pandas, NumPy, matplotlib
@@ -20,13 +20,11 @@ The project uses `combined_wind_experiments.csv`, a public combined dataset from
 - dashboard-style reporting
 - structured documentation for R&D workflows
 
-## Run on Google Colab
+## can also be Run on Google Colab
 
 Open:
 
 `notebooks/Green_Hydrogen_Lab_Data_Analysis_Dashboard_Colab.ipynb`
-
-Upload `combined_wind_experiments.csv`, then run all cells.
 
 ## Run locally
 
