@@ -1,0 +1,5 @@
+{
+  "dataset": "Public Reference Data for Megawatt-Scale Hydrogen Electrolysis",
+  "source_url": "https://data.nlr.gov/submissions/305",
+  "input": "data/raw/combined_wind_experiments.csv"
+}

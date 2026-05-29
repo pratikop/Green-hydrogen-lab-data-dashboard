@@ -1,0 +1,12 @@
+{
+  "rows": 61285,
+  "experiments": 13,
+  "avg_wind_power_kw": 668.42,
+  "avg_psu_power_kw": 668.34,
+  "total_energy_kwh_est": 11377.58,
+  "total_h2_kg_est": 215.7727,
+  "avg_specific_energy_kwh_per_kg": 115.77,
+  "median_specific_energy_kwh_per_kg": 51.66,
+  "avg_temperature_c": 57.23,
+  "median_power_tracking_ratio": 1.017
+}
