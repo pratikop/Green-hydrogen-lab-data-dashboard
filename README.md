@@ -42,6 +42,6 @@ python src/run_dashboard.py --input data/raw/combined_wind_experiments.csv
 - `outputs/reports/experiment_summary.csv`
 - figures in `outputs/figures/`
 
-## CV bullet
+## Final Result
 
 Developed a Python-based green hydrogen lab data analysis dashboard using public megawatt-scale electrolysis data; cleaned and validated CSV time-series data, calculated hydrogen production and energy-efficiency KPIs, visualized operational trends with matplotlib, and documented the analysis pipeline for reproducible R&D reporting.
