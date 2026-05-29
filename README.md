@@ -2,6 +2,17 @@
 
 Python portfolio project analyzing public **megawatt-scale hydrogen electrolysis** data.
 
+## Dashboard Preview
+
+[Open the full live dashboard](https://pratikop.github.io/Green-hydrogen-lab-data-dashboard/)
+
+![Power Response](outputs/figures/01_power_response.png)
+
+![Specific Energy Distribution](outputs/figures/02_specific_energy_distribution.png)
+
+![Cumulative H2 Production](outputs/figures/03_cumulative_h2_production.png)
+
+
 ## Dataset
 
 Public Reference Data for Megawatt-Scale Hydrogen Electrolysis, NLR Submission 305:  
